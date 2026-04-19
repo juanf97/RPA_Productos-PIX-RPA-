@@ -123,7 +123,7 @@ processTransactionItem.pix
 
 ##  Formulario Web
 
-👉 Enlace utilizado:
+ Enlace utilizado:
 
 ```
 https://forms.gle/5PMFwnohWgLo2D5d9
@@ -133,7 +133,7 @@ https://forms.gle/5PMFwnohWgLo2D5d9
 
 
 
-## 🧠 Consideraciones Técnicas
+##  Consideraciones Técnicas
 
 * Se evita duplicidad mediante validación previa en SQL (`IF NOT EXISTS`)
 * Se utilizó Selenium para mayor estabilidad en automatización web
@@ -142,7 +142,7 @@ https://forms.gle/5PMFwnohWgLo2D5d9
 
 ---
 
-## 📊 Resultados
+##  Resultados
 
 * Automatización completa de punta a punta
 * Reducción de intervención manual
@@ -151,7 +151,7 @@ https://forms.gle/5PMFwnohWgLo2D5d9
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Juan Felipe Vásquez**
 
