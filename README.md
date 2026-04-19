@@ -1,6 +1,6 @@
-# 🤖 RPA - Automatización End-to-End de Productos
+# RPA - Automatización End-to-End de Productos
 
-## 📌 Descripción General
+## Descripción General
 
 Este proyecto implementa una solución de **automatización robótica de procesos (RPA)** utilizando PIX Robotics para ejecutar un flujo completo de negocio:
 
@@ -14,7 +14,7 @@ El objetivo es simular un escenario real de automatización empresarial, garanti
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * PIX Robotics Studio
 * SQL Server Express
@@ -24,7 +24,7 @@ El objetivo es simular un escenario real de automatización empresarial, garanti
 
 ---
 
-## 🧩 Arquitectura del Proceso
+##  Arquitectura del Proceso
 
 ```plaintext
 API → Base de Datos → Excel → Formulario Web → Evidencia
@@ -32,7 +32,7 @@ API → Base de Datos → Excel → Formulario Web → Evidencia
 
 ---
 
-## 🔄 Flujo de Ejecución
+##  Flujo de Ejecución
 
 ### 1. Consumo de API
 
@@ -89,7 +89,7 @@ Se genera automáticamente:
 
 ---
 
-## 🚀 Ejecución del Proyecto
+##  Ejecución del Proyecto
 
 ### 1. Base de datos
 
@@ -114,8 +114,22 @@ Ejecutar el script ubicado en:
 ### 3. Ejecución
 
 Ejecutar:
-processTransactionltem.plx
 
+```plaintext
+processTransactionItem.pix
+```
+
+---
+
+##  Formulario Web
+
+👉 Enlace utilizado:
+
+```
+https://forms.gle/5PMFwnohWgLo2D5d9
+```
+
+---
 
 
 
@@ -142,9 +156,3 @@ processTransactionltem.plx
 **Juan Felipe Vásquez**
 
 ---
-
-## 🏁 Estado del Proyecto
-
-✅ Completo
-✅ Funcional
-✅ Listo para ejecución y demostración
