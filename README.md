@@ -130,16 +130,6 @@ https://forms.gle/5PMFwnohWgLo2D5d9
 ```
 
 ---
-
-
-
-##  Consideraciones Técnicas
-
-* Se evita duplicidad mediante validación previa en SQL (`IF NOT EXISTS`)
-* Se utilizó Selenium para mayor estabilidad en automatización web
-* La carga de archivos se implementó mediante `SendKeys` debido a restricciones del navegador
-* Se emplearon esperas controladas para asegurar sincronización del flujo
-
 ---
 
 ##  Resultados
